@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.UUID;
 
+/**
+ * Controller
+ */
 @RestController
 @RequestMapping("/orders")
 public class OrderCommandController {
